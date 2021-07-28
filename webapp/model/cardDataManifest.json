@@ -1,7 +1,7 @@
 {
 	"stackedColumn": {
 		"sap.app": {
-			"id": "cardAnalytical",
+			"id": "analyticalCard",
 			"type": "card"
 		},
 		"sap.card": {
@@ -91,7 +91,7 @@
 	},
 	"donut": {
 		"sap.app": {
-			"id": "cardDonut",
+			"id": "donutCard",
 			"type": "card"
 		},
 		"sap.card": {
@@ -154,7 +154,7 @@
 	},
 	"object": {
 		"sap.app": {
-			"id": "cardObject",
+			"id": "objectCard",
 			"type": "card"
 		},
 		"sap.card": {
@@ -225,7 +225,7 @@
 	},
 	"list1": {
 		"sap.app": {
-			"id": "cardList",
+			"id": "listCard",
 			"type": "card"
 		},
 		"sap.card": {
@@ -278,7 +278,7 @@
 	},
 	"list2": {
 		"sap.app": {
-			"id": "cardList2",
+			"id": "listCard2",
 			"type": "card"
 		},
 		"sap.card": {
@@ -424,7 +424,7 @@
 	},
 	"timeline": {
 		"sap.app": {
-			"id": "cardTimeline",
+			"id": "timelineCard",
 			"type": "card"
 		},
 		"sap.card": {
@@ -478,7 +478,7 @@
 	},
 	"calendar": {
 		"sap.app": {
-			"id": "cardCalendar",
+			"id": "calendarCard",
 			"type": "card"
 		},
 		"sap.card": {
