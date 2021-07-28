@@ -1,7 +1,7 @@
 {
 	"_version": "1.12.0",
 	"sap.app": {
-		"id": "sap.ui.integration.sample.CardsLayout.componentCard",
+		"id": "componentCard",
 		"type": "card",
 		"applicationVersion": {
 			"version": "1.0.0"
@@ -9,7 +9,7 @@
 	},
 	"sap.ui5": {
 		"rootView": {
-			"viewName": "sap.ui.integration.sample.CardsLayout.componentCard.View",
+			"viewName": "app.UI5IntegrationCards.componentCard.ComponentCard",
 			"type": "XML",
 			"async": true,
 			"id": "app"
